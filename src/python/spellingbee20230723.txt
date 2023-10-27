@@ -1,0 +1,157 @@
+There are 45292 spelling bee words
+There are 138 spelling bee words today and they are:
+
+	4	5	6	7	8	9	Σ
+A:	2	4	2	-	-	-	8
+D:	6	3	1	-	-	-	10
+M:	2	-	2	1	-	-	5
+O:	1	-	-	-	-	-	1
+P:	7	2	-	1	2	1	13
+R:	8	2	2	1	-	-	13
+U:	-	-	1	-	-	-	1
+Σ:	26	11	8	3	2	1	51
+
+z adroop
+z adrop
+z amar
+z amor
+z amorado
+	x amour
+z amra
+z apar
+z arad
+z arado
+z arar
+z arara
+z ararao
+	x ardor
+z ardu
+	x armada
+	x armor
+z aroar
+	x aroma
+z arrau
+z arupa
+	x aura
+z aurar
+	x aurora
+z aurum
+
+z dammar
+z daroo
+z darr
+	x door
+z dorad
+	x dorado
+	x dorm
+z dorp
+z douar
+	x dour
+	x dram
+	x drama
+z dramm
+z droddum
+	x droop
+	x drop
+z droud
+	x drum
+z duodrama
+z dura
+z duro
+z durra
+
+z maduro
+z marara
+	x maraud
+	x marm
+z maro
+z maru
+	x moor
+z moorup
+z mora
+z mormaor
+z mormaordom
+z mormo
+z moro
+z mudar
+z mudra
+z mura
+z murdrum
+	x murmur
+z murra
+z murumuru
+
+	x odor
+z oord
+z orad
+z ordu
+
+paar
+padroado
+para
+parado
+param
+paramo
+	x paramour
+parao
+parapod
+pard
+pardao
+pardo
+parma
+parr
+pauropod
+	x pompadour
+poor
+poroma
+poroporo
+porr
+pour
+praam
+prad
+pram
+prau
+proa
+prod
+prodroma
+proo
+prop
+propupa
+purpura
+purr
+
+z raad
+z rada
+	x radar
+	x ramada
+z ramarama
+	x ramp
+	x ramrod
+z raupo
+	x road
+	x roam
+	x roar
+z rodd
+	x romp
+rompu
+	x rood
+	x room
+z ropp
+z roud
+z roup
+z rudd
+	x rumor
+	x rump
+rumpad
+z rupa
+z ruru
+
+uparm
+uppard
+uppour
+upprop
+uproad
+	x uproar
+uproom
+urao
+uropod
